@@ -29,6 +29,8 @@ export default function RecentPosts() {
                         key={post.title}
                         href={post.link}
                         className="post-row"
+                        target="_blank"
+                        rel="noopener noreferrer"
                     >
                         <div>
                             <h4>
