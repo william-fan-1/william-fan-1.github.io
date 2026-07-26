@@ -1,14 +1,14 @@
 const posts = [
     {
-        title: "Margin Notes #1",
+        title: "Leveraged ETFs and Portfolio Insurance",
         date: "July 2026",
         description:
-            "A short description of the ideas explored in this piece.",
-        link: "#",
+            "Discussing the mechanics and risks of leveraged ETFs and offering a historical comparison.",
+        link: "https://substack.com/home/post/p-207799513",
     },
     {
-        title: "Margin Notes #2",
-        date: "June 2026",
+        title: "Margin Notes #3",
+        date: "August 2026",
         description:
             "A short description of the ideas explored in this piece.",
         link: "#",

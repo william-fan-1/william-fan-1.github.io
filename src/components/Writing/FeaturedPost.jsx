@@ -8,14 +8,14 @@ export default function FeaturedPost() {
                 Featured Essay
             </p>
             <h3>
-                Leveraged ETFs and Portfolio Insurance
+                Making Sense of the Bond Market
             </h3>
             <p>
-                Discussing the mechanics and risks of leveraged
-                ETFs and offering a historical comparison.
+                Examining the structural forces driving today's bond market, 
+                from fiscal deficits and Treasury supply to investor confidence.
             </p>
             <a
-                href="https://substack.com/home/post/p-207799513"
+                href="https://open.substack.com/pub/williamfan2/p/margin-notes-2?r=8s84mj&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
                 className="external-link"
                 target="_blank"
                 rel="noopener noreferrer"
