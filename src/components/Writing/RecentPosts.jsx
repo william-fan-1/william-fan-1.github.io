@@ -1,17 +1,16 @@
 const posts = [
     {
+        title: "The Cost of Knowing Less",
+        date: "August 2026",
+        description:
+            "Analyzing the SEC's proposed disclosure changes through the lens of the Efficient Market Hypothesis and what they imply for transparency, price discovery, and investors.",
+        link: "https://open.substack.com/pub/williamfan2/p/margin-notes-3?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=post%20viewer",},
+    {
         title: "Making Sense of the Bond Market",
         date: "July 2026",
         description:
             "Examining the structural forces driving today's bond market, from fiscal deficits and Treasury supply to investor confidence.",
         link: "https://open.substack.com/pub/williamfan2/p/margin-notes-2?r=8s84mj&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
-    },
-    {
-        title: "Leveraged ETFs and Portfolio Insurance",
-        date: "July 2026",
-        description:
-            "Discussing the mechanics and risks of leveraged ETFs and offering a historical comparison.",
-        link: "https://substack.com/home/post/p-207799513",
     },
 ];
 

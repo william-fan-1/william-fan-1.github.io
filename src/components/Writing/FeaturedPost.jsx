@@ -8,13 +8,13 @@ export default function FeaturedPost() {
                 Featured Essay
             </p>
             <h3>
-                The Cost of Knowing Less
+                What the Yentervention Signals
             </h3>
             <p>
-                Examining the SEC's proposed disclosure changes through the lens of the Efficient Market Hypothesis and what they imply for transparency, price discovery, and investors.
+                Breaking down the recent intervention in yen depreciation and what it means for global markets.
             </p>
             <a
-                href="https://open.substack.com/pub/williamfan2/p/margin-notes-3?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=post%20viewer"
+                href="https://williamfan2.substack.com/p/margin-notes-4?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=web"
                 className="external-link"
                 target="_blank"
                 rel="noopener noreferrer"
