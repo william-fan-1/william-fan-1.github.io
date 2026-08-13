@@ -25,17 +25,4 @@ export const projects = [
 
         link: "https://github.com/william-fan-1/explaining-markets",
     },
-    {
-        title: "Volatility Surface",
-        description:
-            "A construction of a volatility surface from implied volatility estimation that experiments with Kalman Filtering for smoothing.",
-
-        technologies: [
-            "Python",
-            "Black-Scholes",
-            "Kalman Filtering",
-        ],
-
-        link: "https://github.com/squilliam34/kf-vol-surface",
-    },
 ];
