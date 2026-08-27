@@ -8,13 +8,13 @@ export default function FeaturedPost() {
                 Featured Essay
             </p>
             <h3>
-                What the Yentervention Signals
+                Principles of Long-Term Yields
             </h3>
             <p>
-                Breaking down the recent intervention in yen depreciation and what it means for global markets.
+                Understanding the sell-off in long-term government debt and why the Treasury's proposed buyback won't help.
             </p>
             <a
-                href="https://williamfan2.substack.com/p/margin-notes-4?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=web"
+                href="https://williamfan2.substack.com/p/margin-notes-5?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=post%20viewer"
                 className="external-link"
                 target="_blank"
                 rel="noopener noreferrer"
