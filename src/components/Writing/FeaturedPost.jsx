@@ -8,13 +8,13 @@ export default function FeaturedPost() {
                 Featured Essay
             </p>
             <h3>
-                Principles of Long-Term Yields
+                The AI Dichotomy in Financial Markets
             </h3>
             <p>
-                Understanding the sell-off in long-term government debt and why the Treasury's proposed buyback won't help.
+                Analyzing the inversion in relative valuations between stocks and bonds and understanding what's driving markets right now.
             </p>
             <a
-                href="https://williamfan2.substack.com/p/margin-notes-5?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=post%20viewer"
+                href="https://substack.com/@williamfan2/note/p-213335914?r=8s84mj&utm_source=notes-share-action&utm_medium=web"
                 className="external-link"
                 target="_blank"
                 rel="noopener noreferrer"
