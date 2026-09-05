@@ -1,13 +1,26 @@
 export const projects = [
     {
-        title: "Gravity Model for Stocks",
+        title: "Factor Originality",
         description:
-            "A network-based approach to portfolio construction using semantic similarity and factor exposures.",
+            "An examination of published equity characteristics and determination of redundancy within the \"Factor Zoo\".",
 
         technologies: [
             "Python",
-            "Machine Learning",
-            "Network Analysis",
+            "Factor Models",
+            "Statistical Analysis",
+        ],
+
+        link: "https://github.com/william-fan-1/factor-originality/tree/main",
+    },
+    {
+        title: "Gravity Model for Stocks",
+        description:
+            "A network-based approach to portfolio construction using semantic similarity and clustering.",
+
+        technologies: [
+            "Python",
+            "Natural Language Processing",
+            "Clustering",
         ],
 
         link: "https://github.com/squilliam34/gravity/tree/main",
@@ -20,7 +33,7 @@ export const projects = [
         technologies: [
             "Python",
             "Agentic AI",
-            "Asset Pricing",
+            "Large Language Models",
         ],
 
         link: "https://github.com/william-fan-1/explaining-markets",
