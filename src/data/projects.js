@@ -2,7 +2,7 @@ export const projects = [
     {
         title: "Factor Originality",
         description:
-            "An examination of published equity characteristics and determination of redundancy within the \"Factor Zoo\".",
+            "An examination of published equity characteristics to determine redundancy within the \"Factor Zoo\".",
 
         technologies: [
             "Python",
