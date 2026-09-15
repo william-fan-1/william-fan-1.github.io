@@ -30,7 +30,7 @@ export default function Hero() {
 
             {/* Education */}
             <p className="text-xl mb-2">
-                Incoming Chicago Booth Master in Finance
+                Chicago Booth Master in Finance
             </p>
 
             {/* Rotating subtitle */}
