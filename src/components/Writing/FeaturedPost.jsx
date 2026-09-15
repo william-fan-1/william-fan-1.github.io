@@ -8,13 +8,13 @@ export default function FeaturedPost() {
                 Featured Essay
             </p>
             <h3>
-                The AI Dichotomy in Financial Markets
+                A Rate Hike Soliloquoy
             </h3>
             <p>
-                Analyzing the inversion in relative valuations between stocks and bonds and understanding what's driving markets right now.
+                Commentary on the upcoming FOMC meeting, what I believe is coming, and why I think caution is worthwhile.
             </p>
             <a
-                href="https://substack.com/@williamfan2/note/p-213335914?r=8s84mj&utm_source=notes-share-action&utm_medium=web"
+                href="https://williamfan2.substack.com/p/margin-notes-7?r=8s84mj&utm_campaign=post-expanded-share&utm_medium=post%20viewer"
                 className="external-link"
                 target="_blank"
                 rel="noopener noreferrer"
